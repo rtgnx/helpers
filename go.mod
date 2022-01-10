@@ -1,3 +1,3 @@
-module github.com/Reverse-Labs/helpers
+module github.com/rtgnx/helpers
 
 go 1.17
